@@ -1,0 +1,122 @@
+[
+  {
+    "_id": {
+      "$oid": "61d74c9833c9f0547630c561"
+    },
+    "Nombres": "Carlos Andres",
+    "Apellidos": "Martinez Lopez",
+    "Edad": 35,
+    "Cedula": 30793465,
+    "Celular": 3203423349,
+    "Equipo": "Team Alpha",
+    "Nacionalidad": "Peruano"
+  },
+  {
+    "_id": {
+      "$oid": "61d74ced33c9f0547630c562"
+    },
+    "Nombres": "Ana Maria",
+    "Apellidos": "Garcia Fernandez",
+    "Edad": 29,
+    "Cedula": 80009764,
+    "Celular": 3118772209,
+    "Equipo": "Beta Squad",
+    "Nacionalidad": "Mexicana"
+  },
+  {
+    "_id": {
+      "$oid": "2a9edcf520c5125d88e6fc15"
+    },
+    "Nombres": "Pedro",
+    "Apellidos": "Gomez Salazar",
+    "Edad": 20,
+    "Cedula": 1004105789,
+    "Celular": 3007854422,
+    "Equipo": "Rangers Sa",
+    "Nacionalidad": "Colombiano"
+  },
+  {
+    "_id": {
+      "$oid": "b4b2444bf4d5e07d4bac38bc"
+    },
+    "Nombres": "Luis Alejandro",
+    "Apellidos": "Perea Gutierrez",
+    "Edad": 25,
+    "Cedula": 10010337890,
+    "Celular": 3203523444,
+    "Equipo": "Dinamit Out",
+    "Nacionalidad": "Colombiano"
+  },
+  {
+    "_id": {
+      "$oid": "493c782c8306e5a531744c32"
+    },
+    "Nombres": "Sebastian",
+    "Apellidos": "Salazar Ruiz",
+    "Edad": 23,
+    "Cedula": 1004254555,
+    "Celular": 3007802123,
+    "Equipo": "Dinamit Out",
+    "Nacionalidad": "Colombiano"
+  },
+  {
+    "_id": {
+      "$oid": "caaf1088fbfa4680ee4cc570"
+    },
+    "Nombres": "Patricio",
+    "Apellidos": "Garcia Ramirez",
+    "Edad": 22,
+    "Cedula": 1025647899,
+    "Celular": 3025564881,
+    "Equipo": "Rangers Sa",
+    "Nacionalidad": "Chileno"
+  },
+  {
+    "_id": {
+      "$oid": "9b110d4bb7a46400a6026666"
+    },
+    "Nombres": "Brayan",
+    "Apellidos": "Rivera Niño",
+    "Edad": 21,
+    "Cedula": 1001044860,
+    "Celular": 3227398889,
+    "Equipo": "Rangers Sa",
+    "Nacionalidad": "Colombiano"
+  },
+  {
+    "_id": {
+      "$oid": "94333965553c84996531ad2b"
+    },
+    "Nombres": "Jorge Andres",
+    "Apellidos": "Rodriguez Perez",
+    "Edad": 35,
+    "Cedula": 1002345678,
+    "Celular": 3227324579,
+    "Equipo": "Gamma Group",
+    "Nacionalidad": "Argentino"
+  },
+  {
+    "_id": {
+      "$oid": "90737eab19172f1368a935a1"
+    },
+    "Nombres": "Miguel Antonio",
+    "Apellidos": "Lopez Fernandez",
+    "Edad": 30,
+    "Cedula": 1001044567,
+    "Celular": 3227300522,
+    "Equipo": "Delta Force",
+    "Nacionalidad": "Chileno"
+  },
+  {
+    "_id": {
+      "$oid": "e681bc46742284fea54ceead"
+    },
+    "Nombres": "Luis Sebastian",
+    "Apellidos": "Torea Molina",
+    "Edad": 31,
+    "Cedula": 1020504030,
+    "Celular": 3220052230,
+    "Equipo": "Team Alpha",
+    "Nacionalidad": "Colombiano"
+  }
+]

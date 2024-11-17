@@ -1,0 +1,142 @@
+[
+  {
+    "_id": {
+      "$oid": "61d7214433c9f0547630c55c"
+    },
+    "Nombres": "Carlos",
+    "Apellidos": "Martinez Lopez",
+    "Edad": 28,
+    "Cedula": 1009876543,
+    "Celular": 3001234567,
+    "Equipo": "Team Alpha",
+    "Ranking": 7.5,
+    "Nacionalidad": "Peruano",
+    "Ciudad": "Lima"
+  },
+  {
+    "_id": {
+      "$oid": "61d721be33c9f0547630c55d"
+    },
+    "Nombres": "Ana Maria",
+    "Apellidos": "Garcia Fernandez",
+    "Edad": 32,
+    "Cedula": 1004567890,
+    "Celular": 3209876543,
+    "Equipo": "Beta Squad",
+    "Ranking": 8.2,
+    "Nacionalidad": "Mexicana",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "_id": {
+      "$oid": "61d7846df5563ceee5822cfb"
+    },
+    "Nombres": "Pedro",
+    "Apellidos": "Gomez Salazar",
+    "Edad": 20,
+    "Cedula": 1004105789,
+    "Celular": 3007854422,
+    "Equipo": "Rangers Sa",
+    "Ranking": 7.8,
+    "Nacionalidad": "Colombiano",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "_id": {
+      "$oid": "61d7847df5563ceee5822cfc"
+    },
+    "Nombres": "Luis Alejandro",
+    "Apellidos": "Perea Gutierrez",
+    "Edad": 25,
+    "Cedula": 10010337890,
+    "Celular": 3203523444,
+    "Equipo": "Dinamit Out",
+    "Ranking": 8.3,
+    "Nacionalidad": "Colombiano",
+    "Ciudad": "Manizales"
+  },
+  {
+    "_id": {
+      "$oid": "61d7859ff5563ceee5822cfe"
+    },
+    "Nombres": "Sebastian",
+    "Apellidos": "Salazar Ruiz",
+    "Edad": 23,
+    "Cedula": 1004254555,
+    "Celular": 3007802123,
+    "Equipo": "Dinamit Out",
+    "Ranking": 7.6,
+    "Nacionalidad": "Colombiano",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "_id": {
+      "$oid": "61d7859ff5563ceee5822cff"
+    },
+    "Nombres": "Patricio",
+    "Apellidos": "Garcia Ramirez",
+    "Edad": 22,
+    "Cedula": 1025647899,
+    "Celular": 3025564881,
+    "Equipo": "Rangers Sa",
+    "Ranking": 8,
+    "Nacionalidad": "Chileno",
+    "Ciudad": "Santiago de chile"
+  },
+  {
+    "_id": {
+      "$oid": "61d7859ff5563ceee5822cfd"
+    },
+    "Nombres": "Brayan",
+    "Apellidos": "Rivera Niño",
+    "Edad": 21,
+    "Cedula": 1001044860,
+    "Celular": 3227398889,
+    "Equipo": "Rangers Sa",
+    "Ranking": 8.1,
+    "Nacionalidad": "Colombiano",
+    "Ciudad": "Cartagena"
+  },
+  {
+    "_id": {
+      "$oid": "61d7859ff5563ceee5822cfa"
+    },
+    "Nombres": "Jorge Andres",
+    "Apellidos": "Rodriguez Perez",
+    "Edad": 35,
+    "Cedula": 1002345678,
+    "Celular": 3227324579,
+    "Equipo": "Gamma Group",
+    "Ranking": 7.9,
+    "Nacionalidad": "Argentino",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "_id": {
+      "$oid": "61d7859ff5563ceee5822cfb"
+    },
+    "Nombres": "Miguel Antonio",
+    "Apellidos": "Lopez Fernandez",
+    "Edad": 30,
+    "Cedula": 1001044567,
+    "Celular": 3227300522,
+    "Equipo": "Delta Force",
+    "Ranking": 8.4,
+    "Nacionalidad": "Chileno",
+    "Ciudad": "Santiago de chile"
+  },
+  {
+    "_id": {
+      "$oid": "61d7859ff5563ceee5822cfc"
+    },
+    "Nombres": "Luis Sebastian",
+    "Apellidos": "Torea Molina",
+    "Edad": 31,
+    "Cedula": 1020504030,
+    "Celular": 3220052230,
+    "Equipo": "Team Alpha",
+    "Ranking": 8.5,
+    "Nacionalidad": "Colombiano",
+    "Ciudad": "Bogotá"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "_id": {
+      "$oid": "61d74d8233c9f0547630c563"
+    },
+    "Nombre": "Rangers Sa",
+    "Ciudad": "Medellin",
+    "Año": 1990
+  },
+  {
+    "_id": {
+      "$oid": "61d74da233c9f0547630c564"
+    },
+    "Nombre": "Dinamit Out",
+    "Ciudad": "Bogotá",
+    "Año": 1992
+  },
+  {
+    "_id": {
+      "$oid": "2a9edcf520c5125d88e6fc15"
+    },
+    "Nombre": "Sigma Squad",
+    "Ciudad": "Medellin",
+    "Año": 1984
+  },
+  {
+    "_id": {
+      "$oid": "b4b2444bf4d5e07d4bac38bc"
+    },
+    "Nombre": "Team Alpha",
+    "Ciudad": "Buenos Aires",
+    "Año": 2009
+  },
+  {
+    "_id": {
+      "$oid": "493c782c8306e5a531744c32"
+    },
+    "Nombre": "Beta Squad",
+    "Ciudad": "Cartagena",
+    "Año": 1987
+  },
+  {
+    "_id": {
+      "$oid": "caaf1088fbfa4680ee4cc570"
+    },
+    "Nombre": "Gamma Group",
+    "Ciudad": "Santiago de chile",
+    "Año": 2007
+  },
+  {
+    "_id": {
+      "$oid": "9b110d4bb7a46400a6026666"
+    },
+    "Nombre": "Beta Squad",
+    "Ciudad": "Buenos Aires",
+    "Año": 2008
+  },
+  {
+    "_id": {
+      "$oid": "94333965553c84996531ad2b"
+    },
+    "Nombre": "Beta Squad",
+    "Ciudad": "Cartagena",
+    "Año": 2006
+  },
+  {
+    "_id": {
+      "$oid": "90737eab19172f1368a935a1"
+    },
+    "Nombre": "Team Alpha",
+    "Ciudad": "Cartagena",
+    "Año": 2020
+  },
+  {
+    "_id": {
+      "$oid": "e681bc46742284fea54ceead"
+    },
+    "Nombre": "Beta Squad",
+    "Ciudad": "Santiago de chile",
+    "Año": 2007
+  }
+]

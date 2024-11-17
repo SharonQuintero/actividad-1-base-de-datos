@@ -1,0 +1,122 @@
+[
+  {
+    "_id": {
+      "$oid": "61d74fd533c9f0547630c565"
+    },
+    "Posición": 1,
+    "Equipo": "Dinamit Out",
+    "Partidos Jugados": 2,
+    "Victorias": 1,
+    "Empates": 1,
+    "Derrotas": 0,
+    "Puntos": 4
+  },
+  {
+    "_id": {
+      "$oid": "61d74ff533c9f0547630c566"
+    },
+    "Posición": 2,
+    "Equipo": "Rangers Sa",
+    "Partidos Jugados": 2,
+    "Victorias": 0,
+    "Empates": 1,
+    "Derrotas": 1,
+    "Puntos": 1
+  },
+  {
+    "_id": {
+      "$oid": "7c94f7db5ca720272f67865d"
+    },
+    "Posición": 3,
+    "Equipo": "Team Alpha",
+    "Partidos Jugados": 3,
+    "Victorias": 1,
+    "Empates": 2,
+    "Derrotas": 0,
+    "Puntos": 5
+  },
+  {
+    "_id": {
+      "$oid": "2b35c7dcb0a011aa35d6ff9b"
+    },
+    "Posición": 4,
+    "Equipo": "Beta Squad",
+    "Partidos Jugados": 4,
+    "Victorias": 2,
+    "Empates": 1,
+    "Derrotas": 1,
+    "Puntos": 7
+  },
+  {
+    "_id": {
+      "$oid": "3d6f8c9a4b7e4f5b8a6d9e7c"
+    },
+    "Posición": 5,
+    "Equipo": "Gamma Group",
+    "Partidos Jugados": 5,
+    "Victorias": 3,
+    "Empates": 1,
+    "Derrotas": 1,
+    "Puntos": 10
+  },
+  {
+    "_id": {
+      "$oid": "4e7f9d0b5c8f6e7d9a7e8f6c"
+    },
+    "Posición": 6,
+    "Equipo": "Delta Force",
+    "Partidos Jugados": 6,
+    "Victorias": 4,
+    "Empates": 1,
+    "Derrotas": 1,
+    "Puntos": 13
+  },
+  {
+    "_id": {
+      "$oid": "5f8e0a1c6d9f7e8d0a9f7e6b"
+    },
+    "Posición": 7,
+    "Equipo": "Omega Team",
+    "Partidos Jugados": 7,
+    "Victorias": 5,
+    "Empates": 1,
+    "Derrotas": 1,
+    "Puntos": 16
+  },
+  {
+    "_id": {
+      "$oid": "6g9f1b2d7e0f8d9e1b0f8d7a"
+    },
+    "Posición": 8,
+    "Equipo": "Sigma Squad",
+    "Partidos Jugados": 8,
+    "Victorias": 6,
+    "Empates": 1,
+    "Derrotas": 1,
+    "Puntos": 19
+  },
+  {
+    "_id": {
+      "$oid": "7h0g2c3e8f1g9e0f2c1g9e8b"
+    },
+    "Posición": 9,
+    "Equipo": "Epsilon Group",
+    "Partidos Jugados": 9,
+    "Victorias": 7,
+    "Empates": 1,
+    "Derrotas": 1,
+    "Puntos": 22
+  },
+  {
+    "_id": {
+      "$oid": "8i1h3d4f9g2h0f3d2h0g9f7c"
+    },
+    "Posición": 10,
+    "Equipo": "Zeta Force",
+    "Partidos Jugados": 10,
+    "Victorias": 8,
+    "Empates": 1,
+    "Derrotas": 1,
+    "Puntos": 25
+  }
+]

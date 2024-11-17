@@ -1,0 +1,46 @@
+[
+  {
+    "_id": {
+      "$oid": "61d71e0d33c9f0547630c55a"
+    },
+    "Nombres": "Carlos",
+    "Apellidos": "Gomez Martinez",
+    "Edad": 45,
+    "Cedula": 1009876543,
+    "Celular": 3221234567,
+    "Nacionalidad": "Peruano"
+  },
+  {
+    "_id": {
+      "$oid": "61d71ed833c9f0547630c55b"
+    },
+    "Nombres": "Ana",
+    "Apellidos": "Lopez Fernandez",
+    "Edad": 29,
+    "Cedula": 1004567890,
+    "Celular": 3019876543,
+    "Nacionalidad": "Mexicana"
+  },
+  {
+    "_id": {
+      "$oid": "61d783c2f5563ceee5822cf9"
+    },
+    "Nombres": "Pedro",
+    "Apellidos": "Garcia Rodriguez",
+    "Edad": 38,
+    "Cedula": 1001234567,
+    "Celular": 3227654321,
+    "Nacionalidad": "Uruguayo"
+  },
+  {
+    "_id": {
+      "$oid": "61d783e7f5563ceee5822cfa"
+    },
+    "Nombres": "Sofia",
+    "Apellidos": "Martinez Gomez",
+    "Edad": 34,
+    "Cedula": 1023456789,
+    "Celular": 3223456789,
+    "Nacionalidad": "Argentina"
+  }
+]
